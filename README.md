@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mahir Khan</h1>
-<h3 align="center">A passionate Full stack Python Developer from India</h3>
+<h3 align="center">A passionate full stack Python developer from India</h3>
 
 - 🔭 I’m currently working on [Self ecommerce fully fledged working project](Project is not ready yet, Will attach the link once it will be completed)
 
