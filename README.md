@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Django, PHP**
 
-- 👨‍💻 All of my projects are available at [GitHub repositories](GitHub repositories)
+- 👨‍💻 All of my projects are available at [GitHub repositories]
 
 - 💬 Ask me about **HTML, REACT, CSS, JAVASCRIPT, PYTHON, C++ & DSA, Bootstrap,**
 
 - 📫 How to reach me **mk9621735@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10zIaJf3LS3LhsR_tFTGj0wLTSURgfeHk/view?usp=drivesdk](https://drive.google.com/file/d/10zIaJf3LS3LhsR_tFTGj0wLTSURgfeHk/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10zIaJf3LS3LhsR_tFTGj0wLTSURgfeHk/view?usp=drivesdk](https://drive.google.cohttps://drive.google.com/file/d/10zIaJf3LS3LhsR_tFTGj0wLTSURgfeHk/view?usp=drivesdkm/file/d/10zIaJf3LS3LhsR_tFTGj0wLTSURgfeHk/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am good enough in programming:)**
 
